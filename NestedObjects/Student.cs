@@ -29,7 +29,7 @@ namespace NestedObjects
         /// <summary>
         /// The student's date of birth
         /// </summary>
-        public DateOnly DateOnly { get; set; }
+        public DateOnly DateOfBirth { get; set; }
 
         /// <summary>
         /// Student's preferred contact number
